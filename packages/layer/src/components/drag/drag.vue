@@ -1,6 +1,6 @@
 <template>
   <div
-    class="vl-notify vl-notify-main vl-notify-alert test"
+    class="vl-notify vl-notify-main vl-notify-alert testaaaaa"
     :class="cls"
     @mousemove="move"
     @mouseup="moveEnd"
